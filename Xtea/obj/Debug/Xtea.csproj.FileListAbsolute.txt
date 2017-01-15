@@ -1,0 +1,9 @@
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\bin\Debug\Xtea.exe.config
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\obj\Debug\Xtea.csprojResolveAssemblyReference.cache
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\obj\Debug\Xtea.Form1.resources
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\obj\Debug\Xtea.Properties.Resources.resources
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\obj\Debug\Xtea.csproj.GenerateResource.Cache
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\bin\Debug\Xtea.exe
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\bin\Debug\Xtea.pdb
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\obj\Debug\Xtea.exe
+C:\Users\Maks_\YandexDisk\Колледж\ТЗИ\Xtea\Xtea\obj\Debug\Xtea.pdb
